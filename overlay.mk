@@ -12,7 +12,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-devinputjack \
 	treble-overlay-huawei \
 	treble-overlay-huawei-ANE \
-	treble-overlay-huawei-ATU \
 	treble-overlay-huawei-BKL \
 	treble-overlay-huawei-BND \
 	treble-overlay-huawei-CLT \
@@ -33,6 +32,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-b2n \
 	treble-overlay-nokia-drg \
 	treble-overlay-oneplus-op6 \
+	treble-overlay-oneplus-op6t \
+	treble-overlay-oneplus-op6t-systemui \
 	treble-overlay-samsung-s9-systemui \
 	treble-overlay-sharp-s2 \
 	treble-overlay-webview \
